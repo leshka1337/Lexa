@@ -1,18 +1,11 @@
 
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
-<h1>Hello<h1>
+#include <iostream>
+using namespace std;
+ 
+int main()
+{
+  cout << "это моя первая программа.";
+ 
+return 0 ;
+ 
+}
